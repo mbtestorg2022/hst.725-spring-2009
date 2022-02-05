@@ -45,13 +45,84 @@ Moore, B. C. J. _An Introduction to the Psychology of Hearing_. 5th ed. San Dieg
 Coursework and Grading
 ----------------------
 
-| COURSEWORK | GRADING | DESCRIPTIONS |
-| --- | --- | --- |
-| Problem sets | 10% | One problem set will be on harmonic structure and tuning systems. The other will cover topics in music perception and cognition. |
-| Musical examples | 10% | Find 5 musical examples from any genre that illustrate or illuminate different aspects of music perception and cognition related to melody, harmony, rhythm, your own musical preference, and some aspect of your choosing. We will listen to them as a class and discuss them. |
-| Reading assignment and presentation | 10% | A relevant paper will be chosen, presented (10-15'), and discussed by the class. This can be one of the papers on the reading list or any paper that you feel is important or insightful. |
-| Fundamental unsolved questions in music psychology – 3-4 page outline/discussion | 20% | I have compiled a list of unsolved questions in music psychology. Please choose from the list or suggest your own problem. Write up an account of the nature of the problem (1-2 paragraphs), its theoretical significance (1 paragraph), current theories (if any, 1-3 paragraphs), two plausible hypothetical explanations (2-4 paragraphs), ideas concerning how the question might be solved or hypotheses tested (1 paragraph), and some assessment of how soon the problem will likely be solved (1 paragraph). Each student will present a problem and outline their thinking about it, which will form the basis for a class discussion. |
-| Term project | 50% of final grade | A research paper, review paper, or research project (e.g. psychological or physiological experiment, computer model/simulation) related to the psychology of music. Topics will be presented orally and discussed in class in mid-March. Project results will be presented and discussed in class in the last two weeks of class. Target length of paper will depend on nature of project. Final papers will be due on the last day of class. I will be happy to read and give comment on outlines and drafts at any stage of preparation. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+GRADING
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+One problem set will be on harmonic structure and tuning systems. The other will cover topics in music perception and cognition.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Musical examples
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+Find 5 musical examples from any genre that illustrate or illuminate different aspects of music perception and cognition related to melody, harmony, rhythm, your own musical preference, and some aspect of your choosing. We will listen to them as a class and discuss them.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading assignment and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+A relevant paper will be chosen, presented (10-15'), and discussed by the class. This can be one of the papers on the reading list or any paper that you feel is important or insightful.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fundamental unsolved questions in music psychology – 3-4 page outline/discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+I have compiled a list of unsolved questions in music psychology. Please choose from the list or suggest your own problem. Write up an account of the nature of the problem (1-2 paragraphs), its theoretical significance (1 paragraph), current theories (if any, 1-3 paragraphs), two plausible hypothetical explanations (2-4 paragraphs), ideas concerning how the question might be solved or hypotheses tested (1 paragraph), and some assessment of how soon the problem will likely be solved (1 paragraph). Each student will present a problem and outline their thinking about it, which will form the basis for a class discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project
+{{< tdclose >}}
+{{< tdopen >}}
+50% of final grade
+{{< tdclose >}}
+{{< tdopen >}}
+A research paper, review paper, or research project (e.g. psychological or physiological experiment, computer model/simulation) related to the psychology of music. Topics will be presented orally and discussed in class in mid-March. Project results will be presented and discussed in class in the last two weeks of class. Target length of paper will depend on nature of project. Final papers will be due on the last day of class. I will be happy to read and give comment on outlines and drafts at any stage of preparation.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 General Themes
 --------------
@@ -77,31 +148,363 @@ Since this course is focused on perception and cognition, there are many aspects
 Calendar{{< anchor "calendar" >}}{{< /anchor >}}
 ------------------------------------------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Overviews: structure of music, music's psychological and social functions {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Overview: auditory perception and the time sense | &nbsp; |
-| 3 | Overview of the auditory system | &nbsp; |
-| 4 | Pitch | &nbsp; |
-| 5 | Pitch mechanisms and neurocomputational models | &nbsp; |
-| 6 | Central representation of pitch - problems and prospects | &nbsp; |
-| 7 | Timbre | &nbsp; |
-| 8 | Consonance, dissonance, and roughness | &nbsp; |
-| 9 | Scales, tuning and harmony | &nbsp; |
-| 10 | Melody | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Harmony {{< br >}}{{< br >}} Tonal expectation (guest lecture/demonstration by Elizabeth Chew, MIT) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Music therapy: clinical applications of the neuropsychology of music (guest lecture by Dr. Kathleen Howland, Boston Conservatory and Wellesley MA Public Schools) | &nbsp; |
-| 13 | Music and the cerebral cortex (guest lecture by Dr. Daniel Bendor, MIT) | &nbsp; |
-| 14 | Absolute pitch, tone deafness, and cortical representation of music (guest lecture by Psyche Louie, Harvard Medical School) | Problem set due |
-| 15 | Neurology of music and music-based therapies (guest lecture by Dr. Gottfried Schlaug, director of Music and Neuroimaging Laborabory at Harvard Medical School) | &nbsp; |
-| 16 | Rhythm, timing, and expectation | &nbsp; |
-| 17 | Emotion, meaning, expectation and reward | &nbsp; |
-| 18 | Imaging studies of creativity and musical performance (guest lecture by Aaron Berkowitz, Harvard University) | &nbsp; |
-| 19 | Formal theories of music cognition and language | Fundamental problems paper due |
-| 20 |  {{< br >}}{{< br >}} Developmental psychology of music {{< br >}}{{< br >}} Guest lecture by Adena Schachner on beat synchronization in animals {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Listening assignments writeups due {{< br >}}{{< br >}} Student paper presentations: Janata (2003); Chen and Zatorre (2006) {{< br >}}{{< br >}}  |
-| 21 | Music perception by cochlear implant users (Guest lecture by Ray Goldsworthy, Sensimetrics) | &nbsp; |
-| 22 | Evolutionary origins | Student paper presentations: Bhatara on autism, 3 Emotions paper |
-| 23 | Music and speech | &nbsp; |
-| 24 | Student final project presentations | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} Music and personality, music and multimodal interactions {{< br >}}{{< br >}} Audio-visual interactions {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | Wrap up and recapitulation | Final projects due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Overviews: structure of music, music's psychological and social functions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview: auditory perception and the time sense
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the auditory system
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pitch mechanisms and neurocomputational models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Central representation of pitch - problems and prospects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Timbre
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Consonance, dissonance, and roughness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Scales, tuning and harmony
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Melody
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Harmony
+
+Tonal expectation (guest lecture/demonstration by Elizabeth Chew, MIT)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Music therapy: clinical applications of the neuropsychology of music (guest lecture by Dr. Kathleen Howland, Boston Conservatory and Wellesley MA Public Schools)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music and the cerebral cortex (guest lecture by Dr. Daniel Bendor, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute pitch, tone deafness, and cortical representation of music (guest lecture by Psyche Louie, Harvard Medical School)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Neurology of music and music-based therapies (guest lecture by Dr. Gottfried Schlaug, director of Music and Neuroimaging Laborabory at Harvard Medical School)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Rhythm, timing, and expectation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Emotion, meaning, expectation and reward
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Imaging studies of creativity and musical performance (guest lecture by Aaron Berkowitz, Harvard University)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Formal theories of music cognition and language
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental problems paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Developmental psychology of music
+
+Guest lecture by Adena Schachner on beat synchronization in animals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Listening assignments writeups due
+
+Student paper presentations: Janata (2003); Chen and Zatorre (2006)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Music perception by cochlear implant users (Guest lecture by Ray Goldsworthy, Sensimetrics)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary origins
+{{< tdclose >}}
+{{< tdopen >}}
+Student paper presentations: Bhatara on autism, 3 Emotions paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Music and speech
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Student final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music and personality, music and multimodal interactions
+
+Audio-visual interactions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up and recapitulation
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

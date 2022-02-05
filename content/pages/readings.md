@@ -6,34 +6,494 @@ uid: da4d9c64-54ac-2506-d73b-5ed1c5d32f0b
 
 The complete citations for the readings associated with each lecture session are available in the [bibliography](#bibliography) listed below the table.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Overviews: structure of music, music's psychological and social functions {{< br >}}{{< br >}}  | Levitin, Chapters 1-2. |
-| 2 | Overview: auditory perception and the time sense |  {{< br >}}{{< br >}} Rasch, R., and R. Plomp. "The Perception of Musical Tones." Chapter 4 in _Deutsch_. {{< br >}}{{< br >}} {{< h 3 >}}Recommended{{< /h >}} {{< br >}}{{< br >}} Weinberger, N. M. "Music and the Auditory System." In _Deutsch_. {{< br >}}{{< br >}} Handel, Chapter 12, "The Physiology of Listening." {{< br >}}{{< br >}}  |
-| 3 | Overview of the auditory system | &nbsp; |
-| 4 | Pitch |  {{< br >}}{{< br >}} De Cheveigne (2005) {{< br >}}{{< br >}} Cariani (1999) {{< br >}}{{< br >}} {{< h 3 >}}Recommended{{< /h >}} {{< br >}}{{< br >}} Cariani & Delgutte (1996); Cedolin & Delgutte (2005) {{< br >}}{{< br >}}  |
-| 5 | Pitch mechanisms and neurocomputational models |  {{< br >}}{{< br >}} De Cheveigne (2005) {{< br >}}{{< br >}} Cariani (2001) {{< br >}}{{< br >}}  |
-| 6 | Central representation of pitch - problems and prospects |  {{< br >}}{{< br >}} Cariani (1999) {{< br >}}{{< br >}} Bendor & Wang (2005) {{< br >}}{{< br >}}  |
-| 7 | Timbre |  {{< br >}}{{< br >}} Risset, J. C., and D. L. Wessel. "Exploration of Timbre by Analysis and Synthesis." Chapter 5 in _Deutsch_. {{< br >}}{{< br >}} {{< h 3 >}}Recommended{{< /h >}} {{< br >}}{{< br >}} Handel, Chapters 4-6, "Sound Generation by Musical Instruments," "Sound Generation by Voice," and "Commonalities: Physical and Perceptual." (Parallels between musical timbre and phonetics.) {{< br >}}{{< br >}}  |
-| 8 | Consonance, dissonance, and roughness |  {{< br >}}{{< br >}} Rasch, R., and R. Plomp. "The Perception of Musical Tones." In _Deutsch_. {{< br >}}{{< br >}} Tramo, et al. (2001) {{< br >}}{{< br >}} {{< h 3 >}}Recommended - Source Papers{{< /h >}} {{< br >}}{{< br >}} Plomp & Levelt (1965) {{< br >}}{{< br >}}  |
-| 9 | Scales, tuning and harmony | Burns, E. M. "Intervals, Scales and Tuning." Chapter 7 in _Deutsch_. |
-| 10 | Melody |  {{< br >}}{{< br >}} Handel, Chapter 10, "Grammars of Music and Language." (Concentrate on sections pertaining to melody) {{< br >}}{{< br >}} Snyder, Chapter 11, "Melody." {{< br >}}{{< br >}} Also look at Deutsch, "The Processing of Pitch Combinations." Chapter 9 in _Deutsch_. {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Harmony {{< br >}}{{< br >}} Tonal expectation (guest lecture/demonstration by Elizabeth Chew, MIT) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Music therapy: clinical applications of the neuropsychology of music (guest lecture by Dr. Kathleen Howland, Boston Conservatory and Wellesley MA Public Schools) | &nbsp; |
-| 13 | Music and the cerebral cortex (guest lecture by Dr. Daniel Bendor, MIT) |  {{< br >}}{{< br >}} Bendor & Wang (2005, 2006) {{< br >}}{{< br >}} Janata, et al. (2002) {{< br >}}{{< br >}}  |
-| 14 | Absolute pitch, tone deafness, and cortical representation of music (guest lecture by Psyche Louie, Harvard Medical School) | {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} Ward, W. Dixon. "Absolute Pitch." Chapter 8 in _Deutsch_. {{< br >}}{{< br >}}  |
-| 15 | Neurology of music and music-based therapies (guest lecture by Dr. Gottfried Schlaug, director of Music and Neuroimaging Laborabory at Harvard Medical School) |  {{< br >}}{{< br >}} Tramo (2001) {{< br >}}{{< br >}} Peretz & Coltheart (2003) {{< br >}}{{< br >}} Bendor & Wang (2006) {{< br >}}{{< br >}} Janata, et al. (2002) {{< br >}}{{< br >}}  |
-| 16 | Rhythm, timing, and expectation |  {{< br >}}{{< br >}} Handel, Chapter 11, "Rhythm." {{< br >}}{{< br >}} Deutsch, D. "Grouping Mechanisms in Music." Chapter 9 in _Deutsch_. {{< br >}}{{< br >}} Clark, E. F. "Rhythm and Timing in Music." Chapter 13 in _Deutsch_. {{< br >}}{{< br >}} {{< h 3 >}}Optional{{< /h >}} {{< br >}}{{< br >}} Snyder, Chapters 3-5. {{< br >}}{{< br >}} Handel, Chapter 7, "Breaking the Acoustic Wave into Events: Stream Segregation." {{< br >}}{{< br >}} Zanto, et al. (2006) {{< br >}}{{< br >}}  |
-| 17 | Emotion, meaning, expectation and reward |  {{< br >}}{{< br >}} Brattico, et al. (2006) {{< br >}}{{< br >}} Koelsch, et al. (2004) {{< br >}}{{< br >}} Levitin, Chapter 4, on anticipation {{< br >}}{{< br >}} Meyer (1961) {{< br >}}{{< br >}} Blood & Zatorre (2001) on music & pleasure {{< br >}}{{< br >}} Huron's _Sweet Anticipation_ {{< br >}}{{< br >}}  |
-| 18 | Imaging studies of creativity and musical performance (guest lecture by Aaron Berkowitz, Harvard University) | Pressing (1998) |
-| 19 | Formal theories of music cognition and language |  {{< br >}}{{< br >}} Jackendoff & Lerdahl (2006) {{< br >}}{{< br >}} Bigand, Chapter 8 in _McAdams and Bigand_. {{< br >}}{{< br >}} Leonard Bernstein lectures {{< br >}}{{< br >}} Patel (2008) {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Developmental psychology of music {{< br >}}{{< br >}} Guest lecture by Adena Schachner on beat synchronization in animals {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Trehub (2003) {{< br >}}{{< br >}} Hannon & Johnson (2005) {{< br >}}{{< br >}} Animal Rhythm readings: Schachner (2009), Patel (2008), etc. {{< br >}}{{< br >}}  |
-| 21 | Music perception by cochlear implant users (Guest lecture by Ray Goldsworthy, Sensimetrics) | &nbsp; |
-| 22 | Evolutionary origins |  {{< br >}}{{< br >}} Brown (2001) {{< br >}}{{< br >}} Fitch (2006) {{< br >}}{{< br >}}  |
-| 23 | Music and speech | &nbsp; |
-| 24 | Student final project presentations | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} Music and personality, music and multimodal interactions {{< br >}}{{< br >}} Audio-visual interactions {{< br >}}{{< br >}}  | Rentfrow and Gosling |
-| 26 | Wrap up and recapitulation |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Overviews: structure of music, music's psychological and social functions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Levitin, Chapters 1-2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview: auditory perception and the time sense
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rasch, R., and R. Plomp. "The Perception of Musical Tones." Chapter 4 in _Deutsch_.
+
+### Recommended
+
+Weinberger, N. M. "Music and the Auditory System." In _Deutsch_.
+
+Handel, Chapter 12, "The Physiology of Listening."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the auditory system
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+De Cheveigne (2005)
+
+Cariani (1999)
+
+### Recommended
+
+Cariani & Delgutte (1996); Cedolin & Delgutte (2005)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pitch mechanisms and neurocomputational models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+De Cheveigne (2005)
+
+Cariani (2001)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Central representation of pitch - problems and prospects
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cariani (1999)
+
+Bendor & Wang (2005)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Timbre
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Risset, J. C., and D. L. Wessel. "Exploration of Timbre by Analysis and Synthesis." Chapter 5 in _Deutsch_.
+
+### Recommended
+
+Handel, Chapters 4-6, "Sound Generation by Musical Instruments," "Sound Generation by Voice," and "Commonalities: Physical and Perceptual." (Parallels between musical timbre and phonetics.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Consonance, dissonance, and roughness
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rasch, R., and R. Plomp. "The Perception of Musical Tones." In _Deutsch_.
+
+Tramo, et al. (2001)
+
+### Recommended - Source Papers
+
+Plomp & Levelt (1965)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Scales, tuning and harmony
+{{< tdclose >}}
+{{< tdopen >}}
+Burns, E. M. "Intervals, Scales and Tuning." Chapter 7 in _Deutsch_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Melody
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handel, Chapter 10, "Grammars of Music and Language." (Concentrate on sections pertaining to melody)
+
+Snyder, Chapter 11, "Melody."
+
+Also look at Deutsch, "The Processing of Pitch Combinations." Chapter 9 in _Deutsch_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Harmony
+
+Tonal expectation (guest lecture/demonstration by Elizabeth Chew, MIT)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Music therapy: clinical applications of the neuropsychology of music (guest lecture by Dr. Kathleen Howland, Boston Conservatory and Wellesley MA Public Schools)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music and the cerebral cortex (guest lecture by Dr. Daniel Bendor, MIT)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bendor & Wang (2005, 2006)
+
+Janata, et al. (2002)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute pitch, tone deafness, and cortical representation of music (guest lecture by Psyche Louie, Harvard Medical School)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Optional
+
+Ward, W. Dixon. "Absolute Pitch." Chapter 8 in _Deutsch_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Neurology of music and music-based therapies (guest lecture by Dr. Gottfried Schlaug, director of Music and Neuroimaging Laborabory at Harvard Medical School)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tramo (2001)
+
+Peretz & Coltheart (2003)
+
+Bendor & Wang (2006)
+
+Janata, et al. (2002)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Rhythm, timing, and expectation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handel, Chapter 11, "Rhythm."
+
+Deutsch, D. "Grouping Mechanisms in Music." Chapter 9 in _Deutsch_.
+
+Clark, E. F. "Rhythm and Timing in Music." Chapter 13 in _Deutsch_.
+
+### Optional
+
+Snyder, Chapters 3-5.
+
+Handel, Chapter 7, "Breaking the Acoustic Wave into Events: Stream Segregation."
+
+Zanto, et al. (2006)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Emotion, meaning, expectation and reward
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Brattico, et al. (2006)
+
+Koelsch, et al. (2004)
+
+Levitin, Chapter 4, on anticipation
+
+Meyer (1961)
+
+Blood & Zatorre (2001) on music & pleasure
+
+Huron's _Sweet Anticipation_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Imaging studies of creativity and musical performance (guest lecture by Aaron Berkowitz, Harvard University)
+{{< tdclose >}}
+{{< tdopen >}}
+Pressing (1998)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Formal theories of music cognition and language
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jackendoff & Lerdahl (2006)
+
+Bigand, Chapter 8 in _McAdams and Bigand_.
+
+Leonard Bernstein lectures
+
+Patel (2008)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Developmental psychology of music
+
+Guest lecture by Adena Schachner on beat synchronization in animals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Trehub (2003)
+
+Hannon & Johnson (2005)
+
+Animal Rhythm readings: Schachner (2009), Patel (2008), etc.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Music perception by cochlear implant users (Guest lecture by Ray Goldsworthy, Sensimetrics)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary origins
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Brown (2001)
+
+Fitch (2006)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Music and speech
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Student final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music and personality, music and multimodal interactions
+
+Audio-visual interactions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Rentfrow and Gosling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up and recapitulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "bibliography" >}}{{< /anchor >}}Course Textbooks
 ------------------------------------------------------------
