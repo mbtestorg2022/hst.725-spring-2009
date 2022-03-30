@@ -5,6 +5,7 @@ description: Lecture presentation on music, psychological function, brains as go
   music, and mass psychology of music.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-725-music-perception-and-cognition-spring-2009/0b97823cebd3d10cf5d01ec5c701109b_MITHST_725S09_lec02_why.pdf
 file_type: application/pdf
+parent_uid: 5738a32e-91e6-38d9-b04a-a428a6dce0fd
 resourcetype: Document
 title: 'Why we listen: The psychological functions of music'
 uid: 0b97823c-ebd3-d10c-f5d0-1ec5c701109b
