@@ -691,7 +691,7 @@ Zanto, T. P., et al. "Neural Correlates of Rhythmic Expectancy." _Advances in Co
 
 Schachner, A., et al. "Spontaneous Motor Entrainment to Music in Multiple Vocal Mimicking Species." _Current Biology_ 19, no. 10 (May 26, 2009): 1-6. DOI: 10.1016/j.cub.2009.03.061. Also see published supplemental data and results.
 
-Patel, A. D., et al. "Investigating the Human-specificity of Synchronization to Music." In Proceedings of the 10th Intl. Conf. on Music Perception and Cognition_._ August 2008, Sapporo, Japan. Edited by M. Adachi, et al. Adelaide, Australia: Causal Productions, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://birdloversonly.org/docs/Patel.pdf))
+Patel, A. D., et al. "Investigating the Human-specificity of Synchronization to Music." In Proceedings of the 10th Intl. Conf. on Music Perception and Cognition_._ August 2008, Sapporo, Japan. Edited by M. Adachi, et al. Adelaide, Australia: Causal Productions, 2008. ([PDF](http://birdloversonly.org/docs/Patel.pdf))
 
 [Wikipedia: Snowball (Cockatoo)](http://en.wikipedia.org/wiki/Snowball_%28Cockatoo%29)
 
@@ -757,7 +757,7 @@ Bigand, E. "Contributions of Music to Research on Human Auditory Cognition." Cha
 
 ### {{< anchor "a15" >}}{{< /anchor >}}Emotion, Meaning, and Expectation
 
-Blood, A. J., and Zatorre, R. J. "Intensely Pleasurable Responses to Music Correlate with Activity in Brain Regions Implicated with Reward and Emotion." _Proceedings of the National Academy of Sciences_ 98 (2001): 11818-11823 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/98/20/11818.abstract))
+Blood, A. J., and Zatorre, R. J. "Intensely Pleasurable Responses to Music Correlate with Activity in Brain Regions Implicated with Reward and Emotion." _Proceedings of the National Academy of Sciences_ 98 (2001): 11818-11823 ([PDF](http://www.pnas.org/content/98/20/11818.abstract))
 
 Koelsch, S., et al. "Music, Language and Meaning: Brain Signatures of Semantic Processing." _Nature Neuroscience_ 7, no. 3 (March 2004): 302-307.
 
